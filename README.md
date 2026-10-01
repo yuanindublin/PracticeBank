@@ -69,6 +69,6 @@ Since this is a pure static frontend application with no complex backend require
 
 4. **Run the Application**
 
-Option A: Double-click index.html to open it directly in your browser.
+   Option A: Double-click index.html to open it directly in your browser.
 
-Option B: Use VS Code's Live Server extension or a local static file server (e.g., python3 -m http.server) for the best experience.
+   Option B: Use VS Code's Live Server extension or a local static file server (e.g., python3 -m http.server) for the best experience.
