@@ -62,4 +62,12 @@ Since this is a pure static frontend application with no complex backend require
 
 1. **Clone the repository**
    ```bash
-   git clone [https://github.com/YourUsername/YourRepository.git](https://github.com/YourUsername/YourRepository.git)
+   git clone [https://github.com/yuanindublin/PracticeBank.git](https://github.com/yuanindublin/PracticeBank.git)
+2. **Prepare the Data File**
+   Ensure saa-c03-data.js is placed in the same root directory as index.html.
+
+3. **Run the Application**
+
+Option A: Double-click index.html to open it directly in your browser.
+
+Option B: Use VS Code's Live Server extension or a local static file server (e.g., python3 -m http.server) for the best experience.
