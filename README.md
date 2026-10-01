@@ -64,9 +64,10 @@ Since this is a pure static frontend application with no complex backend require
    ```bash
    git clone [https://github.com/yuanindublin/PracticeBank.git](https://github.com/yuanindublin/PracticeBank.git)
 2. **Prepare the Data File**
+   
    Ensure saa-c03-data.js is placed in the same root directory as index.html.
 
-3. **Run the Application**
+4. **Run the Application**
 
 Option A: Double-click index.html to open it directly in your browser.
 
